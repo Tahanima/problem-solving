@@ -33,8 +33,24 @@ A repository to contain my submissions in various online judges.
         </tr>
         <tr>
             <td>FLOW001</td>
-            <td> Add Two Numbers</td>
+            <td>Add Two Numbers</td>
             <td><a href="/src/io/github/tahanima/codechef/Flow001_AddTwoNumbers.java">[Link]</a></td>
+        </tr>
+    </table>
+</details>
+
+<details>
+    <summary><b>Codeforces</b></summary>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Problem Title</th>
+            <th>Solution</th>
+        </tr>
+        <tr>
+            <td>4A</td>
+            <td>Watermelon</td>
+            <td><a href="/src/io/github/tahanima/codeforces/_4A_Watermelon.java">[Link]</a></td>
         </tr>
     </table>
 </details>
