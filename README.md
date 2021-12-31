@@ -48,9 +48,24 @@ A repository to contain my submissions in various online judges.
             <th>Solution</th>
         </tr>
         <tr>
+            <td>1A</td>
+            <td>Theatre Square</td>
+            <td><a href="/src/io/github/tahanima/codeforces/_1A_TheatreSquare.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>4A</td>
             <td>Watermelon</td>
             <td><a href="/src/io/github/tahanima/codeforces/_4A_Watermelon.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>71A</td>
+            <td>Way Too Long Words</td>
+            <td><a href="/src/io/github/tahanima/codeforces/_71A_WayTooLongWords.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>231A</td>
+            <td>Team</td>
+            <td><a href="/src/io/github/tahanima/codeforces/_231A_Team.java">[Link]</a></td>
         </tr>
     </table>
 </details>
