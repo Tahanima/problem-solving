@@ -22,7 +22,7 @@ public class _10394_TwinPrimes {
     }
 
     public static void computeTwinPrimes() {
-        final boolean prime[] = new boolean[MAX];
+        final boolean[] prime = new boolean[MAX];
         int sqrt = (int)Math.sqrt(MAX);
 
         for (int i = 3; i <= sqrt; i += 2) {
@@ -53,7 +53,11 @@ public class _10394_TwinPrimes {
 
         while (scanner.hasNext()) {
             int n = scanner.nextInt();
-            stringBuilder.append("(" + twinPrimes.get(n - 1).first + ", " + twinPrimes.get(n - 1).second + ")\n");
+            stringBuilder.append("(")
+                    .append(twinPrimes.get(n - 1).first)
+                    .append(", ")
+                    .append(twinPrimes.get(n - 1).second)
+                    .append(")\n");
         }
 
         System.out.print(stringBuilder);

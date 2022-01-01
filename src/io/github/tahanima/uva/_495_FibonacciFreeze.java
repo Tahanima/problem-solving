@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class _495_FibonacciFreeze {
     final static int MAX = 5001;
-    final static BigInteger fibonacci[] = new BigInteger[MAX];
+    public final static BigInteger[] fibonacci = new BigInteger[MAX];
 
     public static void computeFibonacci() {
         fibonacci[0] = BigInteger.ZERO;
@@ -27,9 +27,12 @@ public class _495_FibonacciFreeze {
 
         while (scanner.hasNext()) {
             int num = scanner.nextInt();
-            stringBuilder.append("The Fibonacci number for " + num + " is " + fibonacci[num] + "\n");
+            stringBuilder.append("The Fibonacci number for ")
+                    .append(num).append(" is ")
+                    .append(fibonacci[num])
+                    .append("\n");
         }
 
-        System.out.print(stringBuilder.toString());
+        System.out.print(stringBuilder);
     }
 }
