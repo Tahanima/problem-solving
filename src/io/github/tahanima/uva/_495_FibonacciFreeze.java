@@ -8,8 +8,8 @@ import java.util.Scanner;
  * @since 01/01/2022
  */
 public class _495_FibonacciFreeze {
-    static int MAX = 5001;
-    static BigInteger fibonacci[] = new BigInteger[MAX];
+    final static int MAX = 5001;
+    final static BigInteger fibonacci[] = new BigInteger[MAX];
 
     public static void computeFibonacci() {
         fibonacci[0] = BigInteger.ZERO;
