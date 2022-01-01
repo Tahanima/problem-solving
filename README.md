@@ -69,3 +69,19 @@ A repository to contain my submissions in various online judges.
         </tr>
     </table>
 </details>
+
+<details>
+    <summary><b>UVa</b></summary>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Problem Title</th>
+            <th>Solution</th>
+        </tr>
+        <tr>
+            <td>495</td>
+            <td>Fibonacci Freeze</td>
+            <td><a href="/src/io/github/tahanima/uva/_495_FibonacciFreeze.java">[Link]</a></td>
+        </tr>
+    </table>
+</details>
