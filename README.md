@@ -88,5 +88,10 @@ A repository to contain my submissions in various online judges.
             <td>Twin Primes</td>
             <td><a href="/src/io/github/tahanima/uva/_10394_TwinPrimes.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>10699</td>
+            <td>Count the factors</td>
+            <td><a href="/src/io/github/tahanima/uva/_10699_CountTheFactors.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
