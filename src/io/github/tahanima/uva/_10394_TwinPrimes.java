@@ -23,7 +23,7 @@ public class _10394_TwinPrimes {
 
     public static void computeTwinPrimes() {
         final boolean[] prime = new boolean[MAX];
-        int sqrt = (int)Math.sqrt(MAX);
+        int sqrt = (int) Math.sqrt(MAX);
 
         for (int i = 3; i <= sqrt; i += 2) {
             if (!prime[i]) {
