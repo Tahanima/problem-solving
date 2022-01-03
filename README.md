@@ -103,5 +103,10 @@ A repository to contain my submissions in various online judges.
             <td>The primary problem</td>
             <td><a href="/src/io/github/tahanima/uva/_10948_ThePrimaryProblem.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>11172</td>
+            <td>Relational Operator</td>
+            <td><a href="/src/io/github/tahanima/uva/_11172_RelationalOperator.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
