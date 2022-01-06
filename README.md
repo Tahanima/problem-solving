@@ -84,6 +84,16 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_495_FibonacciFreeze.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>591</td>
+            <td>Box of Bricks</td>
+            <td><a href="/src/io/github/tahanima/uva/_591_BoxOfBricks.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>10038</td>
+            <td>Jolly Jumpers</td>
+            <td><a href="/src/io/github/tahanima/uva/_10038_JollyJumpers.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10168</td>
             <td>Summation of Four Primes</td>
             <td><a href="/src/io/github/tahanima/uva/_10168_SummationOfFourPrimes.java">[Link]</a></td>
