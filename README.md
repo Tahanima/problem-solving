@@ -99,6 +99,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10038_JollyJumpers.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>10055</td>
+            <td>Hashmat the Brave Warrior</td>
+            <td><a href="/src/io/github/tahanima/uva/_10055_HashmatTheBraveWarrior.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10168</td>
             <td>Summation of Four Primes</td>
             <td><a href="/src/io/github/tahanima/uva/_10168_SummationOfFourPrimes.java">[Link]</a></td>
