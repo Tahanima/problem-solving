@@ -133,5 +133,25 @@ A repository to contain my submissions in various online judges.
             <td>Automatic Answer</td>
             <td><a href="/src/io/github/tahanima/uva/_11547_AutomaticAnswer.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>11727</td>
+            <td>Cost Cutting</td>
+            <td><a href="/src/io/github/tahanima/uva/_11727_CostCutting.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>12250</td>
+            <td>Language Detection</td>
+            <td><a href="/src/io/github/tahanima/uva/_12250_LanguageDetection.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>12289</td>
+            <td>One-Two-Three</td>
+            <td><a href="/src/io/github/tahanima/uva/_12289_OneTwoThree.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>12577</td>
+            <td>Hajj-e-Akbar</td>
+            <td><a href="/src/io/github/tahanima/uva/_12577_HajjEAkbar.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
