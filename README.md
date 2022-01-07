@@ -89,6 +89,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_591_BoxOfBricks.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>1124</td>
+            <td>Celebrity jeopardy</td>
+            <td><a href="/src/io/github/tahanima/uva/_1124_CelebrityJeopardy.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10038</td>
             <td>Jolly Jumpers</td>
             <td><a href="/src/io/github/tahanima/uva/_10038_JollyJumpers.java">[Link]</a></td>
