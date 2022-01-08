@@ -124,6 +124,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10948_ThePrimaryProblem.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>11044</td>
+            <td>Searching for Nessy</td>
+            <td><a href="/src/io/github/tahanima/uva/_11044_SearchingForNessy.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>11172</td>
             <td>Relational Operator</td>
             <td><a href="/src/io/github/tahanima/uva/_11172_RelationalOperator.java">[Link]</a></td>
@@ -132,6 +137,11 @@ A repository to contain my submissions in various online judges.
             <td>11547</td>
             <td>Automatic Answer</td>
             <td><a href="/src/io/github/tahanima/uva/_11547_AutomaticAnswer.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>11614</td>
+            <td>Etruscan Warriors Never Play Chess</td>
+            <td><a href="/src/io/github/tahanima/uva/_11614_EtruscanWarriorsNeverPlayChess.java">[Link]</a></td>
         </tr>
         <tr>
             <td>11727</td>
