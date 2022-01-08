@@ -154,6 +154,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_11727_CostCutting.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>11799</td>
+            <td>Horror Dash</td>
+            <td><a href="/src/io/github/tahanima/uva/_11799_HorrorDash.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>12250</td>
             <td>Language Detection</td>
             <td><a href="/src/io/github/tahanima/uva/_12250_LanguageDetection.java">[Link]</a></td>
@@ -162,6 +167,11 @@ A repository to contain my submissions in various online judges.
             <td>12289</td>
             <td>One-Two-Three</td>
             <td><a href="/src/io/github/tahanima/uva/_12289_OneTwoThree.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>12403</td>
+            <td>Save Setu</td>
+            <td><a href="/src/io/github/tahanima/uva/_12403_SaveSetu.java">[Link]</a></td>
         </tr>
         <tr>
             <td>12577</td>
