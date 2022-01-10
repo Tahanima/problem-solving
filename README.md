@@ -114,6 +114,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10394_TwinPrimes.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>10424</td>
+            <td>Love Calculator</td>
+            <td><a href="/src/io/github/tahanima/uva/_10424_LoveCalculator.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10699</td>
             <td>Count the factors</td>
             <td><a href="/src/io/github/tahanima/uva/_10699_CountTheFactors.java">[Link]</a></td>
