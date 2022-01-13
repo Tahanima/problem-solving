@@ -89,6 +89,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_495_FibonacciFreeze.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>543</td>
+            <td>Goldbach's Conjecture</td>
+            <td><a href="/src/io/github/tahanima/uva/_543_GoldbachsConjecture.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>591</td>
             <td>Box of Bricks</td>
             <td><a href="/src/io/github/tahanima/uva/_591_BoxOfBricks.java">[Link]</a></td>
