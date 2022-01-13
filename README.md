@@ -99,6 +99,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_591_BoxOfBricks.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>686</td>
+            <td>Goldbach's Conjecture (II)</td>
+            <td><a href="/src/io/github/tahanima/uva/_686_GoldbachsConjectureII.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1124</td>
             <td>Celebrity jeopardy</td>
             <td><a href="/src/io/github/tahanima/uva/_1124_CelebrityJeopardy.java">[Link]</a></td>
