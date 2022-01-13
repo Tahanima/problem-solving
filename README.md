@@ -124,6 +124,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10168_SummationOfFourPrimes.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>10235</td>
+            <td>Simply Emirp</td>
+            <td><a href="/src/io/github/tahanima/uva/_10235_SimplyEmirp.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10324</td>
             <td>Zeros and Ones</td>
             <td><a href="/src/io/github/tahanima/uva/_10324_ZerosAndOnes.java">[Link]</a></td>
