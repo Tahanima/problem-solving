@@ -155,7 +155,7 @@ A repository to contain my submissions in various online judges.
         </tr>
         <tr>
             <td>10924</td>
-            <td>Count the factors</td>
+            <td>Prime Words</td>
             <td><a href="/src/io/github/tahanima/uva/_10924_PrimeWords.java">[Link]</a></td>
         </tr>
         <tr>
