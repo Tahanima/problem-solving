@@ -174,6 +174,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10924_PrimeWords.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>10945</td>
+            <td>Mother bear</td>
+            <td><a href="/src/io/github/tahanima/uva/_10945_MotherBear.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10948</td>
             <td>The primary problem</td>
             <td><a href="/src/io/github/tahanima/uva/_10948_ThePrimaryProblem.java">[Link]</a></td>
