@@ -84,6 +84,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_299_TrainSwapping.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>424</td>
+            <td>Integer Inquiry</td>
+            <td><a href="/src/io/github/tahanima/uva/_424_IntegerInquiry.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>495</td>
             <td>Fibonacci Freeze</td>
             <td><a href="/src/io/github/tahanima/uva/_495_FibonacciFreeze.java">[Link]</a></td>
@@ -104,6 +109,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_686_GoldbachsConjectureII.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>713</td>
+            <td>Adding Reversed Numbers</td>
+            <td><a href="/src/io/github/tahanima/uva/_713_AddingReversedNumbers.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1124</td>
             <td>Celebrity jeopardy</td>
             <td><a href="/src/io/github/tahanima/uva/_1124_CelebrityJeopardy.java">[Link]</a></td>
@@ -117,6 +127,11 @@ A repository to contain my submissions in various online judges.
             <td>10055</td>
             <td>Hashmat the Brave Warrior</td>
             <td><a href="/src/io/github/tahanima/uva/_10055_HashmatTheBraveWarrior.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>10106</td>
+            <td>Product</td>
+            <td><a href="/src/io/github/tahanima/uva/_10106_Product.java">[Link]</a></td>
         </tr>
         <tr>
             <td>10168</td>
