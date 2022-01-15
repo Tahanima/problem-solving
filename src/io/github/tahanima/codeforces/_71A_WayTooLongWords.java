@@ -15,7 +15,7 @@ public class _71A_WayTooLongWords {
             String word = scanner.next();
             int len = word.length();
 
-            System.out.printf("%s\n", len > 10 ? (word.charAt(0) + "" + (len - 2) + "" + word.charAt(len - 1)): word);
+            System.out.printf("%s%n", len > 10 ? (word.charAt(0) + "" + (len - 2) + "" + word.charAt(len - 1)): word);
         }
     }
 }

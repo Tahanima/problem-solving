@@ -8,8 +8,8 @@ import java.util.Scanner;
  * @since 01/03/2022
  */
 public class _10948_ThePrimaryProblem {
-    final static int MAX = 2000005;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 2000005;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     static int N;
 
@@ -36,7 +36,10 @@ public class _10948_ThePrimaryProblem {
     }
 
     public static String getAnswer(int n) {
-        for (int i = 0, j = N - 1; i <= j;) {
+        int i = 0;
+        int j = N - 1;
+
+        while (i <= j) {
             int a = primes.get(i);
             int b = primes.get(j);
 

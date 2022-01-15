@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @since 01/12/2022
  */
 public class _10324_ZerosAndOnes {
-    final static int MAX = 1000005;
-    final static int[] countOfOnes = new int[MAX];
+    static final int MAX = 1000005;
+    static final int[] countOfOnes = new int[MAX];
 
     public static void prepare(String binary) {
         int size = binary.length();
@@ -40,13 +40,13 @@ public class _10324_ZerosAndOnes {
         while (scanner.hasNext()) {
             prepare(scanner.next());
             int query = scanner.nextInt();
-            stringBuilder.append(String.format("Case %d:\n", testCase++));
+            stringBuilder.append(String.format("Case %d:%n", testCase++));
 
             while (query-- > 0) {
                 int i = scanner.nextInt();
                 int j = scanner.nextInt();
 
-                stringBuilder.append(String.format("%s\n", isSame(Math.min(i, j), Math.max(i, j)) ? "Yes" : "No"));
+                stringBuilder.append(String.format("%s%n", isSame(Math.min(i, j), Math.max(i, j)) ? "Yes" : "No"));
             }
         }
 

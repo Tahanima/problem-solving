@@ -9,8 +9,8 @@ import java.util.Scanner;
  * @since 01/14/2022
  */
 public class _10924_PrimeWords {
-    final static int MAX = 1050;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 1050;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     public static void generatePrimes() {
         boolean[] prime = new boolean[MAX];

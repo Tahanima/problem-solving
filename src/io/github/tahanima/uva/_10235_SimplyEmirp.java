@@ -9,8 +9,8 @@ import java.util.Scanner;
  * @since 01/14/2022
  */
 public class _10235_SimplyEmirp {
-    final static int MAX = 1000005;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 1000005;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     public static void generatePrimes() {
         boolean[] prime = new boolean[MAX];
@@ -63,11 +63,11 @@ public class _10235_SimplyEmirp {
             int n = scanner.nextInt();
 
             if (isEmirp(n)) {
-                stringBuilder.append(String.format("%d is emirp.\n", n));
+                stringBuilder.append(String.format("%d is emirp.%n", n));
             } else if (isPrime(n)) {
-                stringBuilder.append(String.format("%d is prime.\n", n));
+                stringBuilder.append(String.format("%d is prime.%n", n));
             } else {
-                stringBuilder.append(String.format("%d is not prime.\n", n));
+                stringBuilder.append(String.format("%d is not prime.%n", n));
             }
         }
 

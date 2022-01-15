@@ -11,8 +11,8 @@ import java.util.Collections;
  * @since 01/03/2022
  */
 public class _10168_SummationOfFourPrimes {
-    final static int MAX = 10000001;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 10000001;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     static int N;
 
@@ -59,7 +59,10 @@ public class _10168_SummationOfFourPrimes {
             }
         }
 
-        for (int i = 0, j = upperBoundIndex; i <= j;) {
+        int i = 0;
+        int j = upperBoundIndex;
+
+        while (i <= j) {
             int a = primes.get(i);
             int b = primes.get(j);
 

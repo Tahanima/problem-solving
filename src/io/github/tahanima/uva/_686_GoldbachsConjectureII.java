@@ -9,8 +9,8 @@ import java.util.Scanner;
  * @since 01/14/2022
  */
 public class _686_GoldbachsConjectureII {
-    final static int MAX = 32770;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 32770;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     public static void generatePrimes() {
         boolean[] prime = new boolean[MAX];
@@ -42,7 +42,10 @@ public class _686_GoldbachsConjectureII {
 
         endIndex = Math.min(endIndex, primes.size() - 1);
 
-        for (int i = 0, j = endIndex; i <= j; ) {
+        int i = 0;
+        int j = endIndex;
+
+        while (i <= j) {
             int a = primes.get(i);
             int b = primes.get(j);
 
@@ -71,7 +74,7 @@ public class _686_GoldbachsConjectureII {
                 break;
             }
 
-            stringBuilder.append(String.format("%d\n", count(n)));
+            stringBuilder.append(String.format("%d%n", count(n)));
         }
 
         System.out.print(stringBuilder);

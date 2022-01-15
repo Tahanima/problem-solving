@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @since 01/13/2022
  */
 public class _10327_FlipSort {
-    final static int MAX = 1005;
-    final static int[] nums = new int[MAX];
+    static final int MAX = 1005;
+    static final int[] nums = new int[MAX];
 
     public static int getMinimumExchange(int n) {
         int ans = 0;
@@ -39,7 +39,7 @@ public class _10327_FlipSort {
                 nums[i] = scanner.nextInt();
             }
 
-            stringBuilder.append(String.format("Minimum exchange operations : %d\n", getMinimumExchange(n)));
+            stringBuilder.append(String.format("Minimum exchange operations : %d%n", getMinimumExchange(n)));
         }
 
         System.out.print(stringBuilder);

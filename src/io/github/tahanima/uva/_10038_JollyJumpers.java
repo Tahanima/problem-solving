@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @since 01/07/2022
  */
 public class _10038_JollyJumpers {
-    final static int MAX = 3005;
-    final static boolean[] mark = new boolean[MAX];
-    final static Scanner scanner = new Scanner(System.in);
+    static final int MAX = 3005;
+    static final boolean[] mark = new boolean[MAX];
+    static final Scanner scanner = new Scanner(System.in);
 
     public static void clear() {
         for (int i = 0; i < MAX; i++) {

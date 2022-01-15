@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @since 01/07/2022
  */
 public class _591_BoxOfBricks {
-    final static int MAX = 55;
-    final static int[] height = new int[MAX];
-    final static Scanner scanner = new Scanner(System.in);
+    static final int MAX = 55;
+    static final int[] height = new int[MAX];
+    static final Scanner scanner = new Scanner(System.in);
 
     public static String solve(int n) {
         int perStackHeight = 0;

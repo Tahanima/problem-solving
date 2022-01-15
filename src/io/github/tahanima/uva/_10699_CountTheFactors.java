@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @since 01/02/2022
  */
 public class _10699_CountTheFactors {
-    final static int MAX = 1000001;
-    final static int countOfPrimeFactors[] = new int[MAX];
+    static final int MAX = 1000001;
+    static final int[] countOfPrimeFactors = new int[MAX];
 
     public static void computePrimeFactors() {
         for (int i = 2; i < MAX; i++) {

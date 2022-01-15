@@ -9,8 +9,8 @@ import java.util.Scanner;
  * @since 01/14/2022
  */
 public class _543_GoldbachsConjecture {
-    final static int MAX = 1000005;
-    final static ArrayList<Integer> primes = new ArrayList<>();
+    static final int MAX = 1000005;
+    static final ArrayList<Integer> primes = new ArrayList<>();
 
     public static void generatePrimes() {
         boolean[] prime = new boolean[MAX];
@@ -33,19 +33,21 @@ public class _543_GoldbachsConjecture {
     }
 
     public static String solve(int n) {
-        int size = primes.size();
         int end = Collections.binarySearch(primes, n);
 
         if (end < 0) {
             end = - end - 1;
         }
 
-        for (int i = 0, j = end; i <= j; ) {
+        int i = 0;
+        int j = end;
+
+        while (i <= j) {
             int a = primes.get(i);
             int b = primes.get(j);
 
             if (a + b == n) {
-                return String.format("%d = %d + %d\n", n, a, b);
+                return String.format("%d = %d + %d%n", n, a, b);
             } else if (a + b > n) {
                 j--;
             } else {

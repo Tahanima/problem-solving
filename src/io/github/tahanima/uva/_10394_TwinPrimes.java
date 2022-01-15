@@ -8,10 +8,10 @@ import java.util.Scanner;
  * @since 01/02/2022
  */
 public class _10394_TwinPrimes {
-    final static int MAX = 20000001;
-    final static ArrayList<Pair> twinPrimes = new ArrayList<>();
+    static final int MAX = 20000001;
+    static final ArrayList<Pair> twinPrimes = new ArrayList<>();
 
-    final static class Pair {
+    static final class Pair {
         int first;
         int second;
 

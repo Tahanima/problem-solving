@@ -11,6 +11,6 @@ public class _4A_Watermelon {
         Scanner scanner = new Scanner(System.in);
         byte w = scanner.nextByte();
 
-        System.out.printf("%s\n", w < 4 ? "NO" : ((w - 2) % 2 == 0 ? "YES" : "NO"));
+        System.out.printf("%s%n", w < 4 ? "NO" : ((w - 2) % 2 == 0 ? "YES" : "NO"));
     }
 }

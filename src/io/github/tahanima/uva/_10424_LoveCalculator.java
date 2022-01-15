@@ -43,7 +43,7 @@ public class _10424_LoveCalculator {
             int first = getSum(convert(scanner.nextLine()));
             int second = getSum(convert(scanner.nextLine()));
 
-            stringBuilder.append(String.format("%.2f %%\n", 100.0 * Math.min(first, second) / Math.max(first, second)));
+            stringBuilder.append(String.format("%.2f %%%n", 100.0 * Math.min(first, second) / Math.max(first, second)));
         }
 
         System.out.print(stringBuilder);

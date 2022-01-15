@@ -7,8 +7,8 @@ import java.util.Scanner;
  * @since 01/11/2022
  */
 public class _11462_AgeSort {
-    final static int MAX = 105;
-    final static int[] ageFrequency = new int[MAX];
+    static final int MAX = 105;
+    static final int[] ageFrequency = new int[MAX];
 
     public static void clear() {
         for (int i = 0; i < MAX; i++) {

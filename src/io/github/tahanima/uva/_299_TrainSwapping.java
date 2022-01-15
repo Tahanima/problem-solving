@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @since 01/10/2022
  */
 public class _299_TrainSwapping {
-    final static int MAX = 51;
-    final static int[] mark = new int[MAX];
-    final static int[] order = new int[MAX];
+    static final int MAX = 51;
+    static final int[] mark = new int[MAX];
+    static final int[] order = new int[MAX];
 
     public static void clear(int n) {
         for (int i = 1; i <= n; i++) {
@@ -41,7 +41,7 @@ public class _299_TrainSwapping {
             }
 
             clear(l);
-            stringBuilder.append(String.format("Optimal train swapping takes %d swaps.\n", numberOfSwaps));
+            stringBuilder.append(String.format("Optimal train swapping takes %d swaps.%n", numberOfSwaps));
         }
 
         System.out.print(stringBuilder);
