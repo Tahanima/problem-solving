@@ -84,6 +84,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_299_TrainSwapping.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>401</td>
+            <td>Palindromes</td>
+            <td><a href="/src/io/github/tahanima/uva/_401_Palindromes.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>424</td>
             <td>Integer Inquiry</td>
             <td><a href="/src/io/github/tahanima/uva/_424_IntegerInquiry.java">[Link]</a></td>
