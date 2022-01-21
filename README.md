@@ -119,6 +119,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_713_AddingReversedNumbers.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>748</td>
+            <td>Exponentiation</td>
+            <td><a href="/src/io/github/tahanima/uva/_748_Exponentiation.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1124</td>
             <td>Celebrity jeopardy</td>
             <td><a href="/src/io/github/tahanima/uva/_1124_CelebrityJeopardy.java">[Link]</a></td>
