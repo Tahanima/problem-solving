@@ -174,6 +174,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_10424_LoveCalculator.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>10494</td>
+            <td>If We Were a Child Again</td>
+            <td><a href="/src/io/github/tahanima/uva/_10494_IfWeWereAChildAgain.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>10699</td>
             <td>Count the factors</td>
             <td><a href="/src/io/github/tahanima/uva/_10699_CountTheFactors.java">[Link]</a></td>
