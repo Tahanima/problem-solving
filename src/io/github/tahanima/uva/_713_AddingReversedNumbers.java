@@ -22,8 +22,7 @@ public class _713_AddingReversedNumbers {
             BigInteger b = new BigInteger(reverse(scanner.next()));
             BigInteger sum = a.add(b);
 
-            stringBuilder.append(new BigInteger(reverse(sum.toString())))
-                    .append("\n");
+            stringBuilder.append(String.format("%d%n", new BigInteger(reverse(sum.toString()))));
         }
 
         System.out.print(stringBuilder);

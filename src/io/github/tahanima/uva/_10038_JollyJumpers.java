@@ -43,10 +43,7 @@ public class _10038_JollyJumpers {
         while (scanner.hasNext()) {
             int n = scanner.nextInt();
             processInput(n);
-
-            stringBuilder.append(isJolly(n) ? "Jolly" : "Not jolly")
-                    .append("\n");
-
+            stringBuilder.append(String.format("%s%n", isJolly(n) ? "Jolly" : "Not jolly"));
             clear();
         }
 

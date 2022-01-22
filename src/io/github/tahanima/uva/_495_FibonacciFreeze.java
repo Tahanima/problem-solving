@@ -27,10 +27,7 @@ public class _495_FibonacciFreeze {
 
         while (scanner.hasNext()) {
             int num = scanner.nextInt();
-            stringBuilder.append("The Fibonacci number for ")
-                    .append(num).append(" is ")
-                    .append(fibonacci[num])
-                    .append("\n");
+            stringBuilder.append(String.format("The Fibonacci number for %d is %d%n", num, fibonacci[num]));
         }
 
         System.out.print(stringBuilder);

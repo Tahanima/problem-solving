@@ -40,11 +40,7 @@ public class _591_BoxOfBricks {
                 break;
             }
 
-            stringBuilder.append("Set #")
-                    .append(testCase++)
-                    .append("\n")
-                    .append(solve(n))
-                    .append("\n\n");
+            stringBuilder.append(String.format("Set #%d%n%s%n%n", testCase++, solve(n)));
         }
 
         System.out.print(stringBuilder);

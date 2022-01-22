@@ -12,8 +12,7 @@ public class _1124_CelebrityJeopardy {
         StringBuilder stringBuilder = new StringBuilder();
 
         while (scanner.hasNext()) {
-            stringBuilder.append(scanner.nextLine())
-                    .append("\n");
+            stringBuilder.append(String.format("%s%n", scanner.nextLine()));
         }
 
         System.out.print(stringBuilder);
