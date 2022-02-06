@@ -14,8 +14,8 @@ public class _10041_VitosFamily {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StringBuilder stringBuilder = new StringBuilder();
-
         int noOfCases = scanner.nextInt();
+
         while (noOfCases-- > 0) {
             int n = scanner.nextInt();
 
@@ -27,6 +27,7 @@ public class _10041_VitosFamily {
 
             int answer = 0;
             int avg = n / 2;
+
             for (int i = 0; i < n; i++) {
                 answer += Math.abs(distance[i] - distance[avg]);
             }
