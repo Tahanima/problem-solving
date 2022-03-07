@@ -52,6 +52,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Jassignments.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>JCOINS</td>
+            <td>Janmansh and Coins</td>
+            <td><a href="/src/io/github/tahanima/codechef/Jcoins.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>SHOPCHANGE</td>
             <td>Shopping Change</td>
             <td><a href="/src/io/github/tahanima/codechef/ShopChange.java">[Link]</a></td>
