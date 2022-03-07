@@ -32,6 +32,11 @@ A repository to contain my submissions in various online judges.
             <th>Solution</th>
         </tr>
         <tr>
+            <td>BATTERYLOW</td>
+            <td>Battery Low</td>
+            <td><a href="/src/io/github/tahanima/codechef/BatteryLow.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>FLOW001</td>
             <td>Add Two Numbers</td>
             <td><a href="/src/io/github/tahanima/codechef/Flow001.java">[Link]</a></td>
