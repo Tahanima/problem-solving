@@ -34,7 +34,12 @@ A repository to contain my submissions in various online judges.
         <tr>
             <td>FLOW001</td>
             <td>Add Two Numbers</td>
-            <td><a href="/src/io/github/tahanima/codechef/Flow001_AddTwoNumbers.java">[Link]</a></td>
+            <td><a href="/src/io/github/tahanima/codechef/Flow001.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>INSTNOODLE</td>
+            <td>Chef and Instant Noodles</td>
+            <td><a href="/src/io/github/tahanima/codechef/InstNoodle.java">[Link]</a></td>
         </tr>
     </table>
 </details>
