@@ -46,6 +46,11 @@ A repository to contain my submissions in various online judges.
             <td>Chef and Instant Noodles</td>
             <td><a href="/src/io/github/tahanima/codechef/InstNoodle.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>JASSIGNMENTS</td>
+            <td>Janmansh and Assignments</td>
+            <td><a href="/src/io/github/tahanima/codechef/Jassignments.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
