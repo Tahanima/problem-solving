@@ -72,6 +72,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/GroupAssgn.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>HELIUM3</td>
+            <td>Chef and NextGen</td>
+            <td><a href="/src/io/github/tahanima/codechef/Helium3.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>INSTNOODLE</td>
             <td>Chef and Instant Noodles</td>
             <td><a href="/src/io/github/tahanima/codechef/InstNoodle.java">[Link]</a></td>
