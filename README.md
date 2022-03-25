@@ -52,6 +52,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/CriCup.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>DISCUS</td>
+            <td>Discus Throw</td>
+            <td><a href="/src/io/github/tahanima/codechef/Discus.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>ECOCLASS</td>
             <td>Economics Class</td>
             <td><a href="/src/io/github/tahanima/codechef/EcoClass.java">[Link]</a></td>
