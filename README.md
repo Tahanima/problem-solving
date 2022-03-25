@@ -107,6 +107,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/MinCoins.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>MOVIE2X</td>
+            <td>Watching Movies at 2x</td>
+            <td><a href="/src/io/github/tahanima/codechef/Movie2x.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>NIBBLE</td>
             <td>Good Program</td>
             <td><a href="/src/io/github/tahanima/codechef/Nibble.java">[Link]</a></td>
