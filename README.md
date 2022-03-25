@@ -37,6 +37,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/BatteryLow.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>CHEFCHOCO</td>
+            <td>Chef and Chocolates</td>
+            <td><a href="/src/io/github/tahanima/codechef/ChefChoco.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CREDCOINS</td>
             <td>CRED Coins</td>
             <td><a href="/src/io/github/tahanima/codechef/CredCoins.java">[Link]</a></td>
