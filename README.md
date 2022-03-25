@@ -101,6 +101,11 @@ A repository to contain my submissions in various online judges.
             <td>Shopping Change</td>
             <td><a href="/src/io/github/tahanima/codechef/ShopChange.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>TYRE</td>
+            <td>Tyre problem</td>
+            <td><a href="/src/io/github/tahanima/codechef/Tyre.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
