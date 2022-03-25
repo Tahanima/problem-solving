@@ -62,6 +62,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Flow001.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>GROUPASSGN</td>
+            <td>Group Assignment</td>
+            <td><a href="/src/io/github/tahanima/codechef/GroupAssgn.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>INSTNOODLE</td>
             <td>Chef and Instant Noodles</td>
             <td><a href="/src/io/github/tahanima/codechef/InstNoodle.java">[Link]</a></td>
