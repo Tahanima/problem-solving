@@ -47,6 +47,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/CredScore.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>CRICUP</td>
+            <td>Cup Finals</td>
+            <td><a href="/src/io/github/tahanima/codechef/CriCup.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>FLOW001</td>
             <td>Add Two Numbers</td>
             <td><a href="/src/io/github/tahanima/codechef/Flow001.java">[Link]</a></td>
