@@ -32,9 +32,19 @@ A repository to contain my submissions in various online judges.
             <th>Solution</th>
         </tr>
         <tr>
+            <td>BATH</td>
+            <td>Bath in Winters</td>
+            <td><a href="/src/io/github/tahanima/codechef/Bath.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>BATTERYLOW</td>
             <td>Battery Low</td>
             <td><a href="/src/io/github/tahanima/codechef/BatteryLow.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>CHEFBOTTLE</td>
+            <td>Chef and Water Bottles</td>
+            <td><a href="/src/io/github/tahanima/codechef/ChefBottle.java">[Link]</a></td>
         </tr>
         <tr>
             <td>CHEFCHOCO</td>
