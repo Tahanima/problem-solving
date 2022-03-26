@@ -182,6 +182,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Tyre.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>TYRES</td>
+            <td>Cars and Bikes</td>
+            <td><a href="/src/io/github/tahanima/codechef/Tyres.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>VALENTINE</td>
             <td>Valentine is Coming</td>
             <td><a href="/src/io/github/tahanima/codechef/Valentine.java">[Link]</a></td>
