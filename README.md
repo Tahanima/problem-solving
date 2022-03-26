@@ -142,6 +142,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Notebook.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>PASSORFAIL</td>
+            <td>Pass or Fail</td>
+            <td><a href="/src/io/github/tahanima/codechef/PassOrFail.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>QUALIFY</td>
             <td>Qualify the round</td>
             <td><a href="/src/io/github/tahanima/codechef/Qualify.java">[Link]</a></td>
