@@ -152,6 +152,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Sale2.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>SELFDEF</td>
+            <td>Self Defence Training</td>
+            <td><a href="/src/io/github/tahanima/codechef/SelfDef.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>SHOPCHANGE</td>
             <td>Shopping Change</td>
             <td><a href="/src/io/github/tahanima/codechef/ShopChange.java">[Link]</a></td>
