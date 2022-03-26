@@ -157,6 +157,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Qualify.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>SALE</td>
+            <td>Get Lowest Free</td>
+            <td><a href="/src/io/github/tahanima/codechef/Sale.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>SALE2</td>
             <td>Buy 2 Get 1 Free</td>
             <td><a href="/src/io/github/tahanima/codechef/Sale2.java">[Link]</a></td>
