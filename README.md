@@ -181,6 +181,11 @@ A repository to contain my submissions in various online judges.
             <td>Valentine is Coming</td>
             <td><a href="/src/io/github/tahanima/codechef/Valentine.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>WORDLE</td>
+            <td>Wordle</td>
+            <td><a href="/src/io/github/tahanima/codechef/Wordle.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
