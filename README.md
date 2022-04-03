@@ -62,6 +62,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/ChessDist.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>COURSEREG</td>
+            <td>Course Registration</td>
+            <td><a href="/src/io/github/tahanima/codechef/CourseReg.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CREDCOINS</td>
             <td>CRED Coins</td>
             <td><a href="/src/io/github/tahanima/codechef/CredCoins.java">[Link]</a></td>
