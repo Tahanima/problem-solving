@@ -102,6 +102,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Fbc.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>FINDSHOES</td>
+            <td>Finding Shoes</td>
+            <td><a href="/src/io/github/tahanima/codechef/FindShoes.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>FLOW001</td>
             <td>Add Two Numbers</td>
             <td><a href="/src/io/github/tahanima/codechef/Flow001.java">[Link]</a></td>
