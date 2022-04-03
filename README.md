@@ -47,6 +47,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Blackjack.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>BOTTOM</td>
+            <td>Guess the bottom face</td>
+            <td><a href="/src/io/github/tahanima/codechef/Bottom.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CHEFBOTTLE</td>
             <td>Chef and Water Bottles</td>
             <td><a href="/src/io/github/tahanima/codechef/ChefBottle.java">[Link]</a></td>
