@@ -57,6 +57,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/ChefChoco.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>CHEFPAGES</td>
+            <td>Important Pages on CodeChef</td>
+            <td><a href="/src/io/github/tahanima/codechef/ChefPages.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CHESSDIST</td>
             <td>Chessboard Distance</td>
             <td><a href="/src/io/github/tahanima/codechef/ChessDist.java">[Link]</a></td>
