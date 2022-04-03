@@ -77,6 +77,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/CredCoins.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>CREDITS</td>
+            <td>Complete the credits</td>
+            <td><a href="/src/io/github/tahanima/codechef/Credits.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CREDSCORE</td>
             <td>Credit score</td>
             <td><a href="/src/io/github/tahanima/codechef/CredScore.java">[Link]</a></td>
