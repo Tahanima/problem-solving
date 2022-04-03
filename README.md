@@ -87,6 +87,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/CriCup.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>DIGARR</td>
+            <td>Rearranging digits to get a multiple of 5</td>
+            <td><a href="/src/io/github/tahanima/codechef/DigArr.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>DISCUS</td>
             <td>Discus Throw</td>
             <td><a href="/src/io/github/tahanima/codechef/Discus.java">[Link]</a></td>
