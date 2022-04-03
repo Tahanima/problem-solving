@@ -207,6 +207,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/ShopChange.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>THREETOPICS</td>
+            <td>The Three Topics</td>
+            <td><a href="/src/io/github/tahanima/codechef/ThreeTopics.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>TRAVELFAST</td>
             <td>Car or Bus</td>
             <td><a href="/src/io/github/tahanima/codechef/TravelFast.java">[Link]</a></td>
