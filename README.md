@@ -87,6 +87,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/EcoClass.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>EMAILREM</td>
+            <td>Email Reminders</td>
+            <td><a href="/src/io/github/tahanima/codechef/EmailRem.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>FBC</td>
             <td>Fill the Bucket</td>
             <td><a href="/src/io/github/tahanima/codechef/Fbc.java">[Link]</a></td>
