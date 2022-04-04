@@ -167,6 +167,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Jcoins.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>LAZYCHF</td>
+            <td>Lazy Chef</td>
+            <td><a href="/src/io/github/tahanima/codechef/LazyChf.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>LUCKFOUR</td>
             <td>Lucky Four</td>
             <td><a href="/src/io/github/tahanima/codechef/LuckFour.java">[Link]</a></td>
