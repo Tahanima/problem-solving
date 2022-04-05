@@ -52,6 +52,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Bottom.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>BSCOST</td>
+            <td>Binary String Cost</td>
+            <td><a href="/src/io/github/tahanima/codechef/BsCost.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>CHEFBOTTLE</td>
             <td>Chef and Water Bottles</td>
             <td><a href="/src/io/github/tahanima/codechef/ChefBottle.java">[Link]</a></td>
