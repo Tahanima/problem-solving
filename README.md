@@ -197,6 +197,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/codechef/Nibble.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>NONADJFLIP</td>
+            <td>Non Adjacent Flips</td>
+            <td><a href="/src/io/github/tahanima/codechef/NonAdjFlip.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>NOTEBOOK</td>
             <td>Count the Notebooks</td>
             <td><a href="/src/io/github/tahanima/codechef/Notebook.java">[Link]</a></td>
