@@ -32,6 +32,11 @@ A repository to contain my submissions in various online judges.
             <th>Solution</th>
         </tr>
         <tr>
+            <td>ATM2</td>
+            <td>ATM Machine</td>
+            <td><a href="/src/io/github/tahanima/codechef/Atm2.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>BATH</td>
             <td>Bath in Winters</td>
             <td><a href="/src/io/github/tahanima/codechef/Bath.java">[Link]</a></td>
