@@ -2,7 +2,7 @@ package io.github.tahanima.uva;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _11547_AutomaticAnswer {

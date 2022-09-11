@@ -2,7 +2,7 @@ package io.github.tahanima.codeforces;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _4A_Watermelon {

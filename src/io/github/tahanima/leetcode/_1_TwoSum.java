@@ -2,7 +2,7 @@ package io.github.tahanima.leetcode;
 
 import java.util.Arrays;
 
-/*
+/**
  * @author tahanima
  */
 public class _1_TwoSum {

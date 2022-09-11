@@ -1,6 +1,6 @@
 package io.github.tahanima.beecrowd;
 
-/*
+/**
  * @author tahanima
  */
 public class _1000_HelloWorld {

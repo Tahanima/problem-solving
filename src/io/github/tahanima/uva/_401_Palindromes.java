@@ -3,7 +3,7 @@ package io.github.tahanima.uva;
 import java.util.HashMap;
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _401_Palindromes {

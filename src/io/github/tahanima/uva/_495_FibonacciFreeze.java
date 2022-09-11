@@ -3,7 +3,7 @@ package io.github.tahanima.uva;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _495_FibonacciFreeze {

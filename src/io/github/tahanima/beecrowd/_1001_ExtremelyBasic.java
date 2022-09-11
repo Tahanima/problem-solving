@@ -2,7 +2,7 @@ package io.github.tahanima.beecrowd;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _1001_ExtremelyBasic {

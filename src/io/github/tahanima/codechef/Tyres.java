@@ -2,7 +2,7 @@ package io.github.tahanima.codechef;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class Tyres {

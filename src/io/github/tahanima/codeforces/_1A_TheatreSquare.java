@@ -2,7 +2,7 @@ package io.github.tahanima.codeforces;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _1A_TheatreSquare {

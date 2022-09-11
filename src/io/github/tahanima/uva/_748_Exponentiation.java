@@ -3,7 +3,7 @@ package io.github.tahanima.uva;
 import java.math.BigDecimal;
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _748_Exponentiation {

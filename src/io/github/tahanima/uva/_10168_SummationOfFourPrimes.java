@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/*
+/**
  * @author tahanima
  */
 public class _10168_SummationOfFourPrimes {

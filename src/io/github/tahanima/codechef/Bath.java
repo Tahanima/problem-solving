@@ -2,9 +2,8 @@ package io.github.tahanima.codechef;
 
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
- * @since 03/25/2022
  */
 public class Bath {
     public static void main(String[] args) {

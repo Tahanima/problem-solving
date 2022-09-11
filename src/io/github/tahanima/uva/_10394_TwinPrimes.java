@@ -3,7 +3,7 @@ package io.github.tahanima.uva;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _10394_TwinPrimes {

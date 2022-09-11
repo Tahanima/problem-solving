@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/*
+/**
  * @author tahanima
  */
 public class _11461_SquareNumbers {
