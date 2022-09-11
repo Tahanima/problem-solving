@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 12/26/2021
  */
 public class Flow001 {
     public static void main(String[] args) {

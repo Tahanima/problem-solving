@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/13/2022
  */
 public class _10327_FlipSort {
     static final int MAX = 1005;

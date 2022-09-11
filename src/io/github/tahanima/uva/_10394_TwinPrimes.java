@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/02/2022
  */
 public class _10394_TwinPrimes {
     static final int MAX = 20000001;

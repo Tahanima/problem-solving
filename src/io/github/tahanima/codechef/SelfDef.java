@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 03/26/2022
  */
 public class SelfDef {
     public static boolean between(int number, int start, int end) {

@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/21/2022
  */
 public class _10494_IfWeWereAChildAgain {
     public static void main(String[] args) {

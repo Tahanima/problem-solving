@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/14/2022
  */
 public class _10235_SimplyEmirp {
     static final int MAX = 1000005;

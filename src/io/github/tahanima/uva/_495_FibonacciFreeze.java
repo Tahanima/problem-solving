@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/01/2022
  */
 public class _495_FibonacciFreeze {
     static final int MAX = 5001;

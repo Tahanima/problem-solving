@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/07/2022
  */
 public class _10038_JollyJumpers {
     static final int MAX = 3005;

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/07/2022
  */
 public class _11547_AutomaticAnswer {
     public static void main(String[] args) {

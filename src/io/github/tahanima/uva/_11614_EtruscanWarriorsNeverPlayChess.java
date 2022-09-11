@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/08/2022
  */
 public class _11614_EtruscanWarriorsNeverPlayChess {
     public static long findRow(long n) {

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/08/2022
  */
 public class _12289_OneTwoThree {
     public static boolean isOne(String word) {

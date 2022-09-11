@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 02/07/2022
  */
 public class _10041_VitosFamily {
     static final int MAX = 30005;

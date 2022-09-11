@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/14/2022
  */
 public class _686_GoldbachsConjectureII {
     static final int MAX = 32770;

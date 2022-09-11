@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 03/25/2022
  */
 public class Sale2 {
     private static int solve(int n) {

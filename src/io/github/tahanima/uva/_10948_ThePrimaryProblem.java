@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/03/2022
  */
 public class _10948_ThePrimaryProblem {
     static final int MAX = 2000005;

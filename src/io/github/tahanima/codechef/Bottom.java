@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 04/03/2022
  */
 public class Bottom {
     public static void main(String[] args) {

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/15/2022
  */
 public class _10106_Product {
     public static void main(String[] args) {

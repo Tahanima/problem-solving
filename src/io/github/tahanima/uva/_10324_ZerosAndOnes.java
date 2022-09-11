@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/12/2022
  */
 public class _10324_ZerosAndOnes {
     static final int MAX = 1000005;

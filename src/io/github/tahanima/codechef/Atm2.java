@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 04/11/2022
  */
 public class Atm2 {
     public static void main(String[] args) {

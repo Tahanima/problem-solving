@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/10/2022
  */
 public class _299_TrainSwapping {
     static final int MAX = 51;

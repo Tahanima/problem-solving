@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/10/2022
  */
 public class _10424_LoveCalculator {
     public static int convert(String name) {

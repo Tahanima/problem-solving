@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/09/2022
  */
 public class _12403_SaveSetu {
     public static void main(String[] ags) {

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/02/2022
  */
 public class _10699_CountTheFactors {
     static final int MAX = 1000001;

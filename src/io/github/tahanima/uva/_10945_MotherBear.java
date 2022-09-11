@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/15/2022
  */
 public class _10945_MotherBear {
     public static boolean isPalindrome(String word) {

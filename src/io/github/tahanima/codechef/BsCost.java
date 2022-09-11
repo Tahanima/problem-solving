@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 04/05/2022
  */
 public class BsCost {
     public static void main(String[] args) {

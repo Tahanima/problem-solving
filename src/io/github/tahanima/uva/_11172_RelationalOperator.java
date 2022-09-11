@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/03/2022
  */
 public class _11172_RelationalOperator {
     public static void main(String[] args) {

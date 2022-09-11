@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 12/28/2021
  */
 public class _4A_Watermelon {
     public static void main(String[] args) {

@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/15/2022
  */
 public class _424_IntegerInquiry {
     public static void main(String[] args) {

@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/21/2022
  */
 public class _748_Exponentiation {
     public static String process(StringBuilder number) {

@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 01/08/2022
  */
 public class _11727_CostCutting {
     public static void main(String[] args) {

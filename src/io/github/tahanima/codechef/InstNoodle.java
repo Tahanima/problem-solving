@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 03/07/2022
  */
 public class InstNoodle {
     public static void main(String[] args) {

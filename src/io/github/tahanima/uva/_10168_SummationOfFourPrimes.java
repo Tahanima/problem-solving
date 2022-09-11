@@ -8,7 +8,6 @@ import java.util.Collections;
 
 /*
  * @author tahanima
- * @since 01/03/2022
  */
 public class _10168_SummationOfFourPrimes {
     static final int MAX = 10000001;

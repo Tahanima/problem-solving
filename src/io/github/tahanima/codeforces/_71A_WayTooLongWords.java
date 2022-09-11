@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 12/31/2021
  */
 public class _71A_WayTooLongWords {
     public static void main(String[] args) {

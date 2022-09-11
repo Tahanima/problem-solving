@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  * @author tahanima
- * @since 03/26/2022
  */
 public class LuckFour {
     public static int noOfFours(int n) {
