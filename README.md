@@ -311,6 +311,27 @@ A repository to contain my submissions in various online judges.
 </details>
 
 <details>
+    <summary><b>LeetCode</b></summary>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Problem Title</th>
+            <th>Solution</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Two Sum</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_1_TwoSum.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>121</td>
+            <td>Best Time to Buy and Sell Stock</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_121_BestTimeToBuyAndSellStock.java">[Link]</a></td>
+        </tr>
+    </table>
+</details>
+
+<details>
     <summary><b>UVa</b></summary>
     <table>
         <tr>
