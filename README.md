@@ -328,6 +328,11 @@ A repository to contain my submissions in various online judges.
             <td>Best Time to Buy and Sell Stock</td>
             <td><a href="/src/io/github/tahanima/leetcode/_121_BestTimeToBuyAndSellStock.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>217</td>
+            <td>Contains Duplicate</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_217_ContainsDuplicate.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
