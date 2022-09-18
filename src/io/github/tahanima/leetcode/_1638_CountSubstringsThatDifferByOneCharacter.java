@@ -39,6 +39,7 @@ public class _1638_CountSubstringsThatDifferByOneCharacter {
 
         return noOfMatchedCharsFromRight;
     }
+
     public int countSubstrings(String s, String t) {
         int sizeOfS = s.length();
         int sizeOfT = t.length();
