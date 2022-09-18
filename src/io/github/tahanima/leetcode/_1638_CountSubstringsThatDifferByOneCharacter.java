@@ -8,16 +8,16 @@ public class _1638_CountSubstringsThatDifferByOneCharacter {
         int sizeOfS = s.length();
         int sizeOfT = t.length();
 
-        int[][] left = new int[sizeOfS][sizeOfT];
-        int[][] right = new int[sizeOfS][sizeOfT];
+        int[][] noOfMatchedCharsFromLeft = new int[sizeOfS][sizeOfT];
+        int[][] noOfMatchedCharsFromRight = new int[sizeOfS][sizeOfT];
 
         for (int i = 0; i < sizeOfS; i++) {
             for (int j = 0; j < sizeOfT; j++) {
                 if(s.charAt(i) == t.charAt(j)) {
-                    left[i][j] = 1;
+                    noOfMatchedCharsFromLeft[i][j] = 1;
 
                     if (i > 0 && j > 0) {
-                        left[i][j] += left[i - 1][j - 1];
+                        noOfMatchedCharsFromLeft[i][j] += noOfMatchedCharsFromLeft[i - 1][j - 1];
                     }
                 }
             }
@@ -26,10 +26,10 @@ public class _1638_CountSubstringsThatDifferByOneCharacter {
         for (int i = sizeOfS - 1; i >= 0 ; i--) {
             for (int j = sizeOfT - 1; j >= 0; j--) {
                 if(s.charAt(i) == t.charAt(j)) {
-                    right[i][j] = 1;
+                    noOfMatchedCharsFromRight[i][j] = 1;
 
                     if (i < (sizeOfS - 1) && j < (sizeOfT - 1)) {
-                        right[i][j] += right[i + 1][j + 1];
+                        noOfMatchedCharsFromRight[i][j] += noOfMatchedCharsFromRight[i + 1][j + 1];
                     }
                 }
             }
@@ -42,12 +42,12 @@ public class _1638_CountSubstringsThatDifferByOneCharacter {
                 if (s.charAt(i) != t.charAt(j)) {
                     int totalCombination = 1;
 
-                    if (((i + 1) < sizeOfS) && ((j + 1) < sizeOfT) && right[i + 1][j + 1] > 0) {
-                        totalCombination *= 1 + right[i + 1][j + 1];
+                    if (((i - 1) >= 0) && ((j - 1) >= 0) && noOfMatchedCharsFromLeft[i - 1][j - 1] > 0) {
+                        totalCombination *= 1 + noOfMatchedCharsFromLeft[i - 1][j - 1];
                     }
 
-                    if (((i - 1) >= 0) && ((j - 1) >= 0) && left[i - 1][j - 1] > 0) {
-                        totalCombination *= 1 + left[i - 1][j - 1];
+                    if (((i + 1) < sizeOfS) && ((j + 1) < sizeOfT) && noOfMatchedCharsFromRight[i + 1][j + 1] > 0) {
+                        totalCombination *= 1 + noOfMatchedCharsFromRight[i + 1][j + 1];
                     }
 
                     answer += totalCombination;
