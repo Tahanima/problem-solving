@@ -344,6 +344,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_238_ProductOfArrayExceptSelf.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>983</td>
+            <td>Minimum Cost For Tickets</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_983_MinimumCostForTickets.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1638</td>
             <td>Count Substrings That Differ by One Character</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1638_CountSubstringsThatDifferByOneCharacter.java">[Link]</a></td>
