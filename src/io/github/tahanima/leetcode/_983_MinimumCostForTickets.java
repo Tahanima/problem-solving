@@ -15,37 +15,19 @@ public class _983_MinimumCostForTickets {
             return memo[i];
         }
 
-        int ans0 = costs[0];
-        int next = days[i] + 1;
-        int j = i;
+        memo[i] = 1000000;
 
-        while (j < days.length && days[j] < next) {
-            j++;
+        for (int j = 0; j < 3; j++) {
+            int k = i;
+            int next = days[i] + (j == 0 ? 1 : (j == 1 ? 7 : 30));
+
+            while (k < days.length && days[k] < next) {
+                k++;
+            }
+
+            memo[i] = Math.min(memo[i], costs[j] + solve(k, days, costs));
         }
 
-        ans0 += solve(j, days, costs);
-
-        int ans1 = costs[1];
-        next = days[i] + 7;
-        j = i;
-
-        while (j < days.length && days[j] < next) {
-            j++;
-        }
-
-        ans1 += solve(j, days, costs);
-
-        int ans2 = costs[2];
-        next = days[i] + 30;
-        j = i;
-
-        while (j < days.length && days[j] < next) {
-            j++;
-        }
-
-        ans2 += solve(j, days, costs);
-
-        memo[i] = Math.min(Math.min(ans0, ans1), ans2);
         return memo[i];
     }
 
