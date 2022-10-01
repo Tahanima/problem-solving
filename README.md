@@ -324,6 +324,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_1_TwoSum.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>53</td>
+            <td>Maximum Subarray</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_53_MaximumSubarray.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>57</td>
             <td>Insert Interval</td>
             <td><a href="/src/io/github/tahanima/leetcode/_57_InsertInterval.java">[Link]</a></td>
