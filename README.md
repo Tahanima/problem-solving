@@ -349,6 +349,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_238_ProductOfArrayExceptSelf.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>435</td>
+            <td>Non-overlapping Intervals</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_435_NonOverlappingIntervals.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>983</td>
             <td>Minimum Cost For Tickets</td>
             <td><a href="/src/io/github/tahanima/leetcode/_983_MinimumCostForTickets.java">[Link]</a></td>
