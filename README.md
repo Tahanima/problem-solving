@@ -334,6 +334,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_57_InsertInterval.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>64</td>
+            <td>Minimum Path Sum</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_64_MinimumPathSum.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>121</td>
             <td>Best Time to Buy and Sell Stock</td>
             <td><a href="/src/io/github/tahanima/leetcode/_121_BestTimeToBuyAndSellStock.java">[Link]</a></td>
