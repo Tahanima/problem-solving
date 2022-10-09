@@ -364,6 +364,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_983_MinimumCostForTickets.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>1043</td>
+            <td>Partition Array for Maximum Sum</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_1043_PartitionArrayForMaximumSum.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1395</td>
             <td>Count Number of Teams</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1395_CountNumberOfTeams.java">[Link]</a></td>
