@@ -26,7 +26,7 @@ public class _1653_MinimumDeletionsToMakeStringBalanced {
     }
 
     public int minimumDeletions(String s) {
-        for (int i = 0; i < MAXN; i++) {
+        for (int i = 0; i < s.length() + 1; i++) {
             dp[i][0] = dp[i][1] = -1;
         }
 
