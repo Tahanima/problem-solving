@@ -363,6 +363,11 @@ A repository to contain my submissions in various online judges.
             <td>Count Substrings That Differ by One Character</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1638_CountSubstringsThatDifferByOneCharacter.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>1653</td>
+            <td>Minimum Deletions to Make String Balanced</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_1653_MinimumDeletionsToMakeStringBalanced.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
