@@ -4,8 +4,7 @@ package io.github.tahanima.leetcode;
  * @author tahanima
  */
 public class _1653_MinimumDeletionsToMakeStringBalanced {
-    int MAXN = 100005;
-    int[][] dp = new int[MAXN][2];
+    int[][] dp = new int[100005][2];
 
     public int solve(int i, int hasB, String s) {
         if (i == s.length()) {
