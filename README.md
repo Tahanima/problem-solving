@@ -383,6 +383,11 @@ A repository to contain my submissions in various online judges.
             <td>Minimum Deletions to Make String Balanced</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1653_MinimumDeletionsToMakeStringBalanced.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>2063</td>
+            <td>Vowels of All Substrings</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_2063_VowelsOfAllSubstrings.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
