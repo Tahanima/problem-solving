@@ -404,6 +404,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_2413_SmallestEvenMultiple.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>2418</td>
+            <td>Sort the People</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_2418_SortThePeople.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>2427</td>
             <td>Number of Common Factors</td>
             <td><a href="/src/io/github/tahanima/leetcode/_2427_NumberOfCommonFactors.java">[Link]</a></td>
