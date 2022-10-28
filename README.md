@@ -398,6 +398,11 @@ A repository to contain my submissions in various online judges.
             <td>Vowels of All Substrings</td>
             <td><a href="/src/io/github/tahanima/leetcode/_2063_VowelsOfAllSubstrings.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>2427</td>
+            <td>Number of Common Factors</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_2427_NumberOfCommonFactors.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
