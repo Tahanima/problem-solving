@@ -413,6 +413,11 @@ A repository to contain my submissions in various online judges.
             <td>Number of Common Factors</td>
             <td><a href="/src/io/github/tahanima/leetcode/_2427_NumberOfCommonFactors.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>2441</td>
+            <td>Largest Positive Integer That Exists With Its Negative</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_2441_LargestPositiveIntegerThatExistsWithItsNegative.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
