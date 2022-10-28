@@ -399,6 +399,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_2063_VowelsOfAllSubstrings.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>2413</td>
+            <td>Smallest Even Multiple</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_2413_SmallestEvenMultiple.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>2427</td>
             <td>Number of Common Factors</td>
             <td><a href="/src/io/github/tahanima/leetcode/_2427_NumberOfCommonFactors.java">[Link]</a></td>
