@@ -20,6 +20,11 @@ A repository to contain my submissions in various online judges.
             <td>Extremely Basic</td>
             <td><a href="/src/io/github/tahanima/beecrowd/_1001_ExtremelyBasic.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>1002</td>
+            <td>Area of a Circle</td>
+            <td><a href="/src/io/github/tahanima/beecrowd/_1002_AreaOfACircle.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
 
