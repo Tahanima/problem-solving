@@ -374,6 +374,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_435_NonOverlappingIntervals.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>494</td>
+            <td>Target Sum</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_494_TargetSum.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>647</td>
             <td>Palindromic Substrings</td>
             <td><a href="/src/io/github/tahanima/leetcode/_647_PalindromicSubstrings.java">[Link]</a></td>
