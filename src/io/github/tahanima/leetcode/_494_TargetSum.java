@@ -11,7 +11,7 @@ public class _494_TargetSum {
     int n, target;
     HashMap<ArrayList<Integer>, Integer> memo = new HashMap<>();
 
-    int solve(int pos, int sum) {
+    private int solve(int pos, int sum) {
         ArrayList<Integer> aList = new ArrayList<>();
         aList.add(pos);
         aList.add(sum);
