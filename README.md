@@ -389,6 +389,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_647_PalindromicSubstrings.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>746</td>
+            <td>Min Cost Climbing Stairs</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_746_MinCostClimbingStairs.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>813</td>
             <td>Largest Sum of Averages</td>
             <td><a href="/src/io/github/tahanima/leetcode/_813_LargestSumOfAverages.java">[Link]</a></td>
