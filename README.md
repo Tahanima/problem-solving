@@ -419,6 +419,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_1638_CountSubstringsThatDifferByOneCharacter.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>1646</td>
+            <td>Get Maximum in Generated Array</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_1646_GetMaximumInGeneratedArray.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1653</td>
             <td>Minimum Deletions to Make String Balanced</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1653_MinimumDeletionsToMakeStringBalanced.java">[Link]</a></td>
