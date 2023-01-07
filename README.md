@@ -424,6 +424,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/leetcode/_1638_CountSubstringsThatDifferByOneCharacter.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>1512</td>
+            <td>Number of Good Pairs</td>
+            <td><a href="/src/io/github/tahanima/leetcode/_1512_NumberOfGoodPairs.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>1646</td>
             <td>Get Maximum in Generated Array</td>
             <td><a href="/src/io/github/tahanima/leetcode/_1646_GetMaximumInGeneratedArray.java">[Link]</a></td>
