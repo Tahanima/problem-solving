@@ -665,6 +665,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_12289_OneTwoThree.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>12372</td>
+            <td>Packing for Holiday</td>
+            <td><a href="/src/io/github/tahanima/uva/_12372_PackingForHoliday.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>12403</td>
             <td>Save Setu</td>
             <td><a href="/src/io/github/tahanima/uva/_12403_SaveSetu.java">[Link]</a></td>
