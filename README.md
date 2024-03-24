@@ -675,6 +675,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_12403_SaveSetu.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>12468</td>
+            <td>Zapping</td>
+            <td><a href="/src/io/github/tahanima/uva/_12468_Zapping.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>12577</td>
             <td>Hajj-e-Akbar</td>
             <td><a href="/src/io/github/tahanima/uva/_12577_HajjEAkbar.java">[Link]</a></td>
