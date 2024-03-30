@@ -475,6 +475,11 @@ A repository to contain my submissions in various online judges.
             <th>Solution</th>
         </tr>
         <tr>
+            <td>272</td>
+            <td>TEX Quotes</td>
+            <td><a href="/src/io/github/tahanima/uva/_272_TexQuotes.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>299</td>
             <td>Train Swapping</td>
             <td><a href="/src/io/github/tahanima/uva/_299_TrainSwapping.java">[Link]</a></td>
@@ -643,6 +648,11 @@ A repository to contain my submissions in various online judges.
             <td>11727</td>
             <td>Cost Cutting</td>
             <td><a href="/src/io/github/tahanima/uva/_11727_CostCutting.java">[Link]</a></td>
+        </tr>
+        <tr>
+            <td>11764</td>
+            <td>Jumping Mario</td>
+            <td><a href="/src/io/github/tahanima/uva/_11764_JumpingMario.java">[Link]</a></td>
         </tr>
         <tr>
             <td>11799</td>
