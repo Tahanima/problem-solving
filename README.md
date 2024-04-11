@@ -704,5 +704,10 @@ A repository to contain my submissions in various online judges.
             <td>Back to the Past</td>
             <td><a href="/src/io/github/tahanima/uva/_13025_BackToThePast.java">[Link]</a></td>
         </tr>
+        <tr>
+            <td>13034</td>
+            <td>Solve Everything :-)</td>
+            <td><a href="/src/io/github/tahanima/uva/_13034SolveEverything.java">[Link]</a></td>
+        </tr>
     </table>
 </details>
