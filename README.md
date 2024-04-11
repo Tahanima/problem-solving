@@ -665,6 +665,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_11879_MultipleOf17.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>11942</td>
+            <td>Lumberjack Sequencing</td>
+            <td><a href="/src/io/github/tahanima/uva/_11942_LumberjackSequencing.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>12250</td>
             <td>Language Detection</td>
             <td><a href="/src/io/github/tahanima/uva/_12250_LanguageDetection.java">[Link]</a></td>
