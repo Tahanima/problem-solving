@@ -635,6 +635,11 @@ A repository to contain my submissions in various online judges.
             <td><a href="/src/io/github/tahanima/uva/_11462_AgeSort.java">[Link]</a></td>
         </tr>
         <tr>
+            <td>11498</td>
+            <td>Division of Nlogonia</td>
+            <td><a href="/src/io/github/tahanima/uva/_11498_DivisionOfNlogonia.java">[Link]</a></td>
+        </tr>
+        <tr>
             <td>11547</td>
             <td>Automatic Answer</td>
             <td><a href="/src/io/github/tahanima/uva/_11547_AutomaticAnswer.java">[Link]</a></td>
@@ -712,7 +717,7 @@ A repository to contain my submissions in various online judges.
         <tr>
             <td>13034</td>
             <td>Solve Everything :-)</td>
-            <td><a href="/src/io/github/tahanima/uva/_13034SolveEverything.java">[Link]</a></td>
+            <td><a href="/src/io/github/tahanima/uva/_13034_SolveEverything.java">[Link]</a></td>
         </tr>
     </table>
 </details>
